@@ -15,7 +15,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy.special import hermite
 from scipy.integrate import simps
-from scipy.integrate import quad
 
 n = 1                  #order of Hermite polynomial
 a = 1.0                #peak position of delta function
